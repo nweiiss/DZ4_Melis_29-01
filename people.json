@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Bill Gates",
+        "age": 68,
+        "occupation": "Microsoft",
+        "image": "images/Bill.jpg"
+    },
+    {
+        "name": "Brin Sergey",
+        "age": 50,
+        "occupation": "Google",
+        "image": "images/Brin.jpg"
+    },
+    {
+        "name": "Elon Musk",
+        "age": 52,
+        "occupation": "Tesla",
+        "image": "images/Elon.jpg"
+    },
+    {
+        "name": "Jeff Bezos",
+        "age": 59,
+        "occupation": "Amazon",
+        "image": "images/Jeff.jpg"
+    },
+    {
+        "name": "Lili",
+        "age": 32,
+        "occupation": "Sales Representative",
+        "image": "images/lili.png"
+    },
+    
+    {
+        "name": "Warren Buffett",
+        "age": 77,
+        "occupation": "Berkshire Hathaway",
+        "image": "images/Warren.jpg"
+    }
+]
